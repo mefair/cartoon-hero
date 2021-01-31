@@ -5,6 +5,7 @@ body{
 	line-height: 30px;
 }
 
+
 header{
 	background-color: #E9F2E9;
 	text-align: center;
@@ -15,6 +16,8 @@ header{
 h1, h2{
 	font-family: 'Playfair Display', serif;
 }
+
+/* header styles*/
 
 header h1 {
 	color: #616761;
@@ -65,7 +68,7 @@ footer p{
 }
 
 footer a{
-	color: white;
+	color: #D2B48C;
 }
 
 footer a:hover{
